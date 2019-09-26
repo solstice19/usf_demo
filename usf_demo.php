@@ -31,6 +31,7 @@
 		4) location of this file: C:\xampp\htdocs\usf_demo.php
 		
 		5) The create_candidates.sql file can be used to recreate the candidates table in mySql.
+		   Create Db "demo" to hold this table.
 		
 		*/
 		
