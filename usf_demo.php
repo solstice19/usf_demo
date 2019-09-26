@@ -16,16 +16,22 @@
         <?php
 		
 		/****************************************************************************************/
-		/* demo of PHP dashboard																*/
+		/* demo of PHP based dashboard																*/
 		/*                                                                                      
 		
-		1) Used to show basic elements of a php dashboard: logo, summary section, detsil 
+		In this demo the php drives the generated page - not a true MVC.
 		
-		2) This demo uses a XAMPP stack with mySql and php files driving the output.
+		1) Used to show basic elements of a dashboard: logo, summary section, detail section,
+		   form submit, sorting via hfref's
+		
+		2) This demo uses a XAMPP stack with mySql and php files driving the backend.
 		
 		3) Gets are used so the arguments being passed are visible.
 		
-		4) location: C:\xampp\htdocs\usf_demo.php
+		4) location of this file: C:\xampp\htdocs\usf_demo.php
+		
+		5) The create_candidates.sql file can be used to recreate the candidates table in mySql.
+		
 		*/
 		
 		
